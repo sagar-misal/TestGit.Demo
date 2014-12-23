@@ -1,3 +1,4 @@
 My changes 2
 copied from first.txt
 before add
+AFTER COMMIT
